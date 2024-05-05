@@ -80,4 +80,32 @@ a {
     border-radius: 12px;
 }
 
+.info {
+    max-width: 250px;
+    font-size: 18px;
+}
 
+.info-image {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 12px;
+}
+
+.section-2 {
+    text-align: center;
+    padding-bottom: 120px;
+}
+
+.info-title {
+    font-size: 36px;
+    font-weight: 999;
+    color: #1F2937;
+    margin: 48px 0;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 24px;
+}
